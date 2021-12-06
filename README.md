@@ -1,1 +1,1 @@
-# BSC-Case-study
+# BSC-Case-study-practice
